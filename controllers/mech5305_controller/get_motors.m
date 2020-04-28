@@ -22,8 +22,13 @@ function motors = get_motors()
     r_sho_roll = wb_robot_get_device('ArmUpperR');
     r_el = wb_robot_get_device('ArmLowerR');
     
-    Kp = 15;
+    % TO DO: Adjust the gain into resonalbe values so that the robot can do
+    % some REAL walking
+    %%%%%%%%%%%%%%
+    Kp = 0.1;
     Kd = 0.1;
+    %%%%%%%%%%%%%%
+    
     wb_motor_set_control_pid(head_pan,Kp,0,Kd);
     wb_motor_set_control_pid(head_tilt,Kp,0,Kd);
     
