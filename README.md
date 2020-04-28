@@ -1,4 +1,4 @@
-# MECH5315-Webots-simulation
+# MECH5305-Webots-simulation
 ---
 ## software download and install
 1. go to the Webots official website: https://cyberbotics.com or click [here](https://cyberbotics.com).
@@ -18,7 +18,7 @@ It is highly recommended to go through the official tutorial first, although it 
 1. Load the  `empty_world.world` file.
 ![](figs/how_to_load_world_file.JPG)
 
-2. Load the `mech5315_controller.m` file. (It is highly possible that the the controller file is already loaded, this step might be unnecessary.)
+2. Load the `mech5305_controller.m` file. (It is highly possible that the the controller file is already loaded, this step might be unnecessary.)
 ![](figs/how_to_load_controller.JPG)
 3. Click the play button to start the simulation.
 4. The `K_p` and `K_d` gain settings of each motor are located in the file `get_motor.m`, you are supposed to adjust values there.
