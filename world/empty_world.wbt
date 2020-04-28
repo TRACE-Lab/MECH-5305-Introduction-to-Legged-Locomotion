@@ -1,0 +1,63 @@
+#VRML_SIM R2019b utf8
+WorldInfo {
+  basicTimeStep 16
+}
+Viewpoint {
+  orientation -0.27170830010306246 0.9414150274100317 0.19978074437160745 1.4262466358537325
+  position 2.3248596805423 1.4548430116691193 0.5492096189289326
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  floorSize 6 6
+}
+RobotisOp3 {
+  hidden position_7_0 4.2848323651800466e-07
+  hidden position_7_1 7.225131765735766e-07
+  hidden position_7_2 7.981959537772809e-10
+  hidden position_7_3 -7.43871966473333e-10
+  hidden position_7_4 2.847388991256139e-11
+  hidden rotation_8 0 0 -1 4.2878075152451354e-07
+  hidden position_8_0 3.3237157474612845e-08
+  hidden rotation_9 -1 0 0 2.9802322387695313e-08
+  hidden position_9_0 1.4347996536434593e-06
+  hidden rotation_10 0 1 0 1.4348510643495298e-06
+  hidden position_10_0 8.424413182606116e-07
+  hidden rotation_11 0 1 0 8.424099698723957e-07
+  hidden position_11_0 -2.5126575126099837e-07
+  hidden rotation_12 0 1 0 2.5111883202720774e-07
+  hidden position_12_0 9.929760267557445e-08
+  hidden rotation_13 1 0 0 9.884312124119402e-08
+  hidden rotation_14 0 0 -1 7.226679118265037e-07
+  hidden position_14_0 -4.116301697695363e-08
+  hidden rotation_15 1 0 0 4.2146848510894035e-08
+  hidden position_15_0 1.2610090800446727e-06
+  hidden rotation_16 0 -1 0 1.2608883262459355e-06
+  hidden position_16_0 6.679940936227258e-07
+  hidden rotation_17 0 -1 0 6.677316576960141e-07
+  hidden position_17_0 -7.534208590342928e-08
+  hidden rotation_18 0 -0.9999999999999999 0 7.300048299977715e-08
+  hidden position_18_0 -9.928443202418312e-08
+  hidden rotation_19 -1 0 0 9.884312124119402e-08
+  hidden position_20_0 1.5707963279752706
+  hidden rotation_21 -1 0 0 1.5707963279752704
+  hidden position_21_0 -3.995951917519375e-07
+  hidden rotation_22 -1 0 0 3.99840112477504e-07
+  hidden position_23_0 -1.5707963279769421
+  hidden rotation_24 1 0 0 1.5707963279769421
+  hidden position_24_0 4.168031546084707e-07
+  hidden rotation_25 1 0 0 4.172325134277351e-07
+  hidden position_26_0 -2.0300239039434264e-09
+  translation 0.014687453854993376 0.2787840587105891 -0.004010158337340956
+  rotation 0.9977258149464736 -0.04724729979650977 -0.04807172611144725 -1.5730385729364864
+  controller "Matlab_GPT_OP3"
+  bodySlot [
+    InertialUnit {
+    }
+    GPS {
+      rotation 0 1 0 1.5707959999999999
+    }
+  ]
+}
