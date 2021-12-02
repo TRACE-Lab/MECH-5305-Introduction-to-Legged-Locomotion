@@ -1,4 +1,4 @@
-#VRML_SIM R2019b utf8
+#VRML_SIM R2020a utf8
 WorldInfo {
   basicTimeStep 16
 }
@@ -54,7 +54,7 @@ RobotisOp3 {
   hidden position_26_0 -2.0304163493726085e-09
   translation 0.014687223355175761 0.27878406020126223 -0.004010616517916865
   rotation 0.9977257241558514 -0.047247917244519225 -0.048073003585561845 -1.573040342261162
-  controller "mech5305_controller"
+  controller "MECH_3220_Control_of_Mechanical_Systems"
   bodySlot [
     InertialUnit {
     }
