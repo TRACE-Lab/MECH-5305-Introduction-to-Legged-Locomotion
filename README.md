@@ -6,7 +6,7 @@
 3. Webots supports C/C++, Java, Python, Matlab. However, you **MUST** install these programming languages first to use them in Webots. The detailed languages setup instruction can be found [here](https://cyberbotics.com/doc/guide/language-setup).  
 
 ## instruction on how to run this homework
->in this homework, there are two files you need to load into the webots, `empty_world.world` file and the controller file `MECH_3220_Control_of_Mechanical_Systems.m`. (in this homework, we use MATLAB).
+>in this homework, there are two files you need to load into the webots, `empty_world.world` file and the controller file `mech5305_controller.m`. (in this homework, we use MATLAB).
 It is highly recommended to go through the official tutorial first, although it is not required. The official tutorial can be found [here](https://cyberbotics.com/doc/guide/tutorials)
 
 ### Folder explain
