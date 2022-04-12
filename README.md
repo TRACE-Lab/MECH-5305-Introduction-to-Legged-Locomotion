@@ -19,10 +19,10 @@ for kinematic structure or sensor capability, please click [here](https://cyberb
 
 ### Steps to run the simulation for this homework
 1. Load the  `empty_world.world` file.
-![](figs/how_to_load_world_file.png)
+![](figs/how_to_load_world_file.JPG)
 
-2. Load the `MECH_3220_Control_of_Mechanical_Systems.m` file. (It is highly possible that the the controller file is already loaded, this step might be unnecessary.)
-![](figs/how_to_load_controller1.png)
+2. Load the `mech5305_controller.m` file. (It is highly possible that the the controller file is already loaded, this step might be unnecessary.)
+![](figs/how_to_load_controller1.JPG)
 3. Click the play button to start the simulation.
 
 4. Press `i` key on keyboard to initialize the walking pose. (both arms should down instead of stretching horizontally)
