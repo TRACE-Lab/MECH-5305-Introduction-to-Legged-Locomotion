@@ -1,4 +1,4 @@
-# MECH 3220 Control of Mechanical Systems
+# MECH 5305: Introduction to Legged Locomotion
 ---
 ## software download and install
 1. go to the Webots official website: https://cyberbotics.com or click [here](https://cyberbotics.com).
